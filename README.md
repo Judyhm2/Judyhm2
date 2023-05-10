@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Judyhm2
 - 👀 I’m interested in learning new ways to create Dashboard in Tableau
 - 🌱 I’m currently learning Data analysis and programming languages
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on date Visiualization Projects
+- 📫 Follow  me ...
 
 <!---
 Judyhm2/Judyhm2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
