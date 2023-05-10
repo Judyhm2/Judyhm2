@@ -14,6 +14,11 @@ You can click the Preview link to take a look at your changes.
 | --- | --- |
 |[Excel]()| List all new or modified files |
 |[Visual Basic]()| List all new or modified files |
+|[Tableau]() | Show file differences that haven't been staged |
+|[Machine Learning]()| List all new or modified files |
+|[ML Supervisor]() | Show file differences that haven't been staged |
+|[Neuron Networks]()| List all new or modified files |
+|[Digital Marketing]() | Show file differences that haven't been staged |
 |[Google Analystics]()| Show file differences that haven't been staged |
 |[Python]()| List all new or modified files |
 |[Matplotlib and API]()| Show file differences that haven't been staged |
@@ -23,6 +28,6 @@ You can click the Preview link to take a look at your changes.
 |[JavaScript, JSON and HTLM]()| List all new or modified files |
 |[SQL]()| List all new or modified files |
 |[ETL]() | Show file differences that haven't been staged |
-|[Tableau]() | Show file differences that haven't been staged |
-|[Machine Learning]()| List all new or modified files |
-|[ML Supervisor]() | Show file differences that haven't been staged |
+
+
+
