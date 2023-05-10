@@ -24,5 +24,5 @@ You can click the Preview link to take a look at your changes.
 |[SQL]()| List all new or modified files |
 |[ETL]() | Show file differences that haven't been staged |
 |[Tableau]() | Show file differences that haven't been staged |
-|[Excel]()| List all new or modified files |
-|[git diff]() | Show file differences that haven't been staged |
+|[Machine Learning]()| List all new or modified files |
+|[ML Supervisor]() | Show file differences that haven't been staged |
