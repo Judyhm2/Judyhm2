@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 |[Visual Basic]()| List all new or modified files |
 |[Tableau]() | Show file differences that haven't been staged |
 |[Machine Learning]()| List all new or modified files |
-|[ML Supervisor]() | Show file differences that haven't been staged |
+|[Machine Learning Supervisor](https://github.com/Judyhm2/Supervised_ML) | Show file differences that haven't been staged |
 |[Neuron Networks]()| List all new or modified files |
 |[Digital Marketing]() | Show file differences that haven't been staged |
 |[Google Analystics]()| Show file differences that haven't been staged |
