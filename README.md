@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Judy, I love to digital marketing, project menagement, create visualizations to share their findings with stakeholders and provide recommendations driven by data.
+- 👋 Hi, I’m Judy, I love digital marketing, project management, creating visualizations to share findings with others and provide recommendations driven by data.
 - 👀 I’m interested in learning new ways to create mining and structure data  so that everyone can understand. Goals and dreams are that everyone would find it easy to analyse data.
 - 🌱 I’m currently AI programming languages, Data Extract, aggregate, and analyze data from provincial and national databases and business intelligence tools.
 - 💞️ I love to support the design of data modeling, storage and access approaches to support automation and streamlining of processes to extract, load transform data to support the development of information products such as reports, pivot environments, PowerBI reports, DAX measure, etc
