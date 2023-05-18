@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 | Programming languages | Project Description |
 | --- | --- |
-|[Excel](https://github.com/Judyhm2/Excel)| List all new or modified files |
+|[Excel](https://github.com/Judyhm2/Excel)| I have formulas and Pivot table to modified files |
 |[VBA](https://github.com/Judyhm2/VBA/tree/main)| List all new or modified files |
 |[Data Visualization: Tableau]() | Show file differences that haven't been staged |
 |[ML: Supervised](https://github.com/Judyhm2/Supervised_ML) | Show file differences that haven't been staged |
