@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new ways to create mining and structure data  so that everyone can understand. Goals and dreams are that everyone would find it easy to analyse data.
 - 🌱 I’m currently AI programming languages, Data Extract, aggregate, and analyze data from provincial and national databases and business intelligence tools.
 - 💞️ I love to support the design of data modeling, storage and access approaches to support automation and streamlining of processes to extract, load transform data to support the development of information products such as reports, pivot environments, PowerBI reports, DAX measure, etc
-- 📫 Follow  me [Facebook](https://www.facebook.com/ProjectMerge), [Instagram](#), [YouTube](#), [Google ](#)
+- 📫 Follow  me [Facebook](https://www.facebook.com/ProjectMerge), [Twitter](https://twitter.com/PMerger), [YouTube](https://www.youtube.com/channel/UC7bCGshlt3BCtGTbhLyiyBA), [LinkedIN](https://www.linkedin.com/in/judy-murray-74a7b039/)
 
 <!---
 Judyhm2/Judyhm2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
