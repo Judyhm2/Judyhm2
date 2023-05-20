@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 |[Data Visualization: Tableau]() | Show file differences that haven't been staged |
 |[ML: Supervised](https://github.com/Judyhm2/Supervised_ML) | Show file differences that haven't been staged |
 |[ML: Neuron Networks](https://github.com/Judyhm2/Neuron_Networks)| List all new or modified files |
-|[Digital Marketing](https://www.promerge.ca/digital-marketing-services-toronto/) | This is my website where I offer Web Analysis, Website deveolpment and graphic to small upcoming business by helping these business to estable a structured web present. I used SEMRUSHplatform for all content management. |
+|[Digital Marketing](https://www.promerge.ca/digital-marketing-services-toronto/) | This is my website where I offer Web Analysis, Website deveolpment and graphic to small upcoming business by helping these business to estable a structured web present. I used SEMRUSH platform, Photoshop and other platforms to management their content online. |
 |[Google Analystics]()| Show file differences that haven't been staged | 
 |[Python](https://github.com/Judyhm2/Pandas_Module_4/tree/main)| List all new or modified files |
 |[Matplotlib and API](https://github.com/Judyhm2/World_Weather/tree/main)| The following information was retrieved from the API call, Latitude and longitude, Maximum temperature, Percent humidity, Percent cloudiness and Wind speed Weather|
