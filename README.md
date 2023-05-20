@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 | Programming languages | Project Description |
 | --- | --- |
 |[Excel](https://github.com/Judyhm2/Excel)| I have formulas and Pivot table to modified files |
-|[VBA](https://github.com/Judyhm2/VBA/tree/main)| List all new or modified files |
+|[VBA](https://github.com/Judyhm2/VBA/tree/main)| In this project I used VBA code to refactor the code to loop through all the data one time in order to collect the same information. Then, I determine whether refactoring my code successfully made the VBA script run faster. Finally, I present a written analysis that explains your findings. |
 |[Data Visualization: Tableau]() | Show file differences that haven't been staged |
 |[ML: Supervised](https://github.com/Judyhm2/Supervised_ML) | Show file differences that haven't been staged |
 |[ML: Neuron Networks](https://github.com/Judyhm2/Neuron_Networks)| List all new or modified files |
